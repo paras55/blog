@@ -19,7 +19,15 @@
       <h5>
         <a href="{{.RelPermalink}}" class="category" alt="{{.Title}}" title="{{.Title}}">{{.Title}}</a>
       </h5>
-      <p class="card-text">{{ .Summary }}</p>
+      <div class="row">
+        <div style=" float: left;padding-left: 5px;padding-right: 20px;">
+          <img src="https://www.talkwalker.com/images/2020/blog-headers/image-analysis.png" alt="" srcset="" style="width: 200px;border-radius: 10px;">
+        </div>
+        <div style=" float: left;width: 70%;padding: 5px;">
+          <div>{{ .Summary }}</div>
+        </div>
+      </div>
+      <br>
       <div class="row">
         <div class="six columns"><a class="button" href="{{ .Permalink }}">Read More</a></div>
         <div class="six columns"><div class="u-pull-right"><i class="{{.Params.Icon}}"></i>
@@ -33,6 +41,7 @@
         </div>
         </div>
       </div>
+      <br><br>
     {{ end }}
   </article>
   </div>
