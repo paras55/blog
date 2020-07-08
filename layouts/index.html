@@ -25,12 +25,16 @@
         </div>
         <div style=" float: left;width: 70%;padding: 5px;">
           <div>{{ .Summary }}</div>
+          <br>
+          <div class="six columns" style="padding-left: 0;margin-left: 0;margin-top: 10;"><a class="button" href="{{ .Permalink }}">Read More</a></div>
         </div>
       </div>
       <br>
       <div class="row">
-        <div class="six columns"><a class="button" href="{{ .Permalink }}">Read More</a></div>
-        <div class="six columns"><div class="u-pull-right"><i class="{{.Params.Icon}}"></i>
+        <!-- <div class="six columns"> -->
+          <!-- <a class="button" href="{{ .Permalink }}"></a> -->
+          <!-- </div> -->
+        <div class="twelve columns"><div class="u-pull-right"><i class="{{.Params.Icon}}"></i>
           <span class="category">
             {{ range .Params.Categories }}
             <a href="{{ "/categories/" | relLangURL}}{{ . | urlize }}">
