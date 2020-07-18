@@ -1,7 +1,7 @@
 ---
 title: "Air Nation List Style"
 date: 2020-04-23
-draft: false
+draft: true
 
 categories: ["Air"]
 icon: "fas fa-wind"
