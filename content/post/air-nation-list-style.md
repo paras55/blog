@@ -1,6 +1,6 @@
 ---
 title: "Air Nation List Style"
-date: 2020-04-23T22
+date: 2020-04-23
 draft: false
 
 categories: ["Air"]
