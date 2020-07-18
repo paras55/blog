@@ -11,7 +11,7 @@ paginate = 5
 
 [params]
 favicon = "images/favicon.png"
-herotitle = "An Ultra theme!"
+herotitle = "Catch the latest episode here"
 herolink = "https://undraw.co/search"
 herolinktext = "Check Now"
 contact = "Send me a message and I will get back as soon as possible."
