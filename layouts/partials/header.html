@@ -1,11 +1,27 @@
 <nav>
-    <label for="drop" class="toggle"><i class="fas fa-bars u-pull-right" aria-hidden="true"></i> <span><i
-                class="fas fa-fire" aria-hidden="true"></i>
-            Startup Nerd</span></label>
+    <label for="drop" class="toggle">
+        <i class="fas fa-bars u-pull-right" aria-hidden="true"></i> 
+        <!-- <span>
+            <i class="fas fa-fire" aria-hidden="true"></i>
+            Sugoi -->
+            <a href="{{ .Site.BaseURL }}"><span>
+                <!-- <i class="fas fa-fire" aria-hidden="true"></i> -->
+                    <img src="https://raw.githubusercontent.com/meyash/hugo_basics/master/images/LOGO.png" alt="" style="width: 100px;height: 50px;background-color: white;border-radius: 10%;">
+                    <!-- StartUp Nerd -->
+                <!-- </span> -->
+            </a>
+        </span>
+    </label>
     <input type="checkbox" id="drop" />
     <ul class="menu">
-        <li><a href="{{ .Site.BaseURL }}"><span><i class="fas fa-fire" aria-hidden="true"></i>
-                    Startup Nerd</span></a></li>
+        <li>
+            <a href="{{ .Site.BaseURL }}"><span>
+            <!-- <i class="fas fa-fire" aria-hidden="true"></i> -->
+                <img src="https://raw.githubusercontent.com/meyash/hugo_basics/master/images/LOGO.png" alt="" style="width: 100px;height: 50px;background-color: white;border-radius: 10%;">
+                <!-- StartUp Nerd -->
+            </span>
+            </a>
+        </li>
         {{ range .Site.Menus.nav }}
         <li class="u-pull-right">
             <a href="{{ .URL | absLangURL }}" class="Members">
