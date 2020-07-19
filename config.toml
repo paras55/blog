@@ -19,11 +19,7 @@ contact = "Send me a message and I will get back as soon as possible."
 [hero]
 
 [menu]
-    [[menu.nav]]
-        name    = "About"
-        pre = "<i class='fas fa-home'></i>"
-        url     = "about"
-        weight  = -1
+    
     [[menu.nav]]
         name    = "Blogs"
         pre = "<i class='fas fa-list'></i>"
