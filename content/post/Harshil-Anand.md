@@ -9,7 +9,7 @@ icon: "fas fa-wind"
 
 ## Beginning of Journey
 
-Harshil started his journey at the age of 14 when I was eagerly interested to dig deeper into the field of robotics science. His hunger to innovate and invent started when he was just 14. He started his own tech blog known as 'Tecotize' which taught him 'How to build a team?'. By the time he was 15, his interests got shifted towards robotics .By 16, he was so call in love with building those flying machines(drones) and this is what helped him in starting his freelancing journey. Getting into UAVs costs a huge pile of money but **dreams just can't wait**, so he started freelancing into website development, animations, and graphic designs to fund his own projects.
+Harshil started his journey at the age of 14 when he was eagerly interested to dig deeper into the field of robotics science. His hunger to innovate and invent started when he was just 14. He started his own tech blog known as 'Tecotize' which taught him 'How to build a team?'. By the time he was 15, his interests got shifted towards robotics .By 16, he was so call in love with building those flying machines(drones) and this is what helped him in starting his freelancing journey. Getting into UAVs costs a huge pile of money but **dreams just can't wait**, so he started freelancing into website development, animations, and graphic designs to fund his own projects.
 ## Vicube and Smart Tee
 Started 'Vicube' in class 11th with one of his cofounders which aimed at providing web and chatbot services to our clients but he always wanted to shift to a product based business. 
 
